@@ -4,7 +4,7 @@ flaw has been added to the code of this tip calculation application for other st
 and a Python and C/C++ back end. 
 
 ## Dependencies
-This project was built using Python 3.11 It is therefore recommended that you attempt to run the main.py file with that Python 3.11, others may work but this is not guranteed.
+This project was built using Python 3.11 It is therefore recommended that you attempt to run the main.py file with Python 3.11, others may work but this is not guranteed.
 You must have a compatible version of Python to run this project.
 (You do not need to install the Cython Package to run this project)
 
